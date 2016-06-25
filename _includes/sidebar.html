@@ -6,7 +6,7 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p>{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -14,23 +14,23 @@
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        `layout: page`.
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
+      {% for node in pages_list reversed %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <div><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></div>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      {% for link in site.navlinks %}
+        <div><a class="sidebar-nav-item" href="{{ link.url }}">{{ link.title }}</a></div>
+      {% endfor %}
+
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

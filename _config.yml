@@ -9,9 +9,9 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Digital Frameworks
+title:            Northwestern Digital Frameworks
 tagline:          'Summer quarter 2016'
-description:      'Lorem ipsm'
+description:      'A high level view of digital journalism practice, summer 2016 edition.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
@@ -26,3 +26,9 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/digitalframeworks/digitalframeworks.github.io
+
+navlinks:
+- url: https://nwudigitalframeworks.slack.com/messages/general/
+  title: Slack
+- url: mailto:davideads@gmail.com
+  title: Email
