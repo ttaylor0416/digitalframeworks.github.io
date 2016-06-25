@@ -2,6 +2,9 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+# Config
+gems: [jekyll-gist,jekyll-paginate]
+
 # Permalinks
 permalink:        pretty
 
