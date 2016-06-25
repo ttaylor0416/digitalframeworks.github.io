@@ -14,12 +14,14 @@ tagline:          'Summer quarter 2016'
 description:      'A high level view of digital journalism practice, summer 2016 edition.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
+excerpt_separator: <!--more-->
+
 
 author:
   name:           'David Eads'
   url:            https://twitter.com/eads
 
-paginate:         10
+paginate:         15
 
 # Custom vars
 version:          1.0.0
