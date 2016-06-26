@@ -10,20 +10,21 @@ email: davideads@gmail.com
 twitter: eads
 ---
 
+Because of the scheduling mixup, the welcome message is coming after week one. My apologies!
 
-Blah blah.
+In all events, we'll get into the swing of things better in week 2.
 
-Blah blah blah.
+Check out the [syllabus](/syllabus). The syllabus can and will change as the quarter goes on, but I'll strive to cover the topics you see there.
 
-Blah.
+You'll need to sign up for some services before week 2:
 
-<div class="row">
-    <div class="col-md-6">
-        <p>Hi</p>
-    </div>
-    <div class="col-md-6">
-        <p>Hi</p>
-    </div>
-</div>
+* [Slack](https://nwudigitalframeworks.slack.com/signup)
+* [Google](https://accounts.google.com/signup)
 
-<div class="well well-sm">...</div>
+There's a few more services you'll need to sign up for throughout the course. You don't _have_ to sign up for them for this week, but might as well, right?
+
+* [Github](https://github.com/join)
+* [Datawrapper](https://www.datawrapper.de/login)
+* [PythonAnywhere](https://www.pythonanywhere.com/registration/register/beginner/)
+
+Ask questions in the comments below.

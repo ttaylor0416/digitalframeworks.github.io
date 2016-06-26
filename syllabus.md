@@ -7,9 +7,10 @@ title: Syllabus
 
 ---
 
+
 **Wednesdays, 6-8:50pm**, June 23<sup>rd</sup> - August 25<sup>th</sup>, 2016. **You must bring a laptop to class.**
 
-**Professor:** David Eads, NPR Visuals Team | **[email](mailto:davideads@gmail.com)** | **[twitter](https://twitter.com/eads)** | **[github](https://github.com/eads)**
+**Professor:** David Eads, NPR Visuals Team / **[email](mailto:davideads@gmail.com)** / **[twitter](https://twitter.com/eads)** / **[github](https://github.com/eads)**
 
 **[Calendar](https://calendar.google.com/calendar/embed?src=u829j0kq4i66s97t8sfrcdj7oc%40group.calendar.google.com&ctz=America/New_York&mode=AGENDA)**: Add to your Google calendar to automatically get schedule updates.
 
