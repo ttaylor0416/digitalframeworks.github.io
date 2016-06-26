@@ -14,7 +14,6 @@ tagline:          'Summer quarter 2016'
 description:      'A high level view of digital journalism practice, summer 2016 edition.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
-excerpt_separator: <!--more-->
 
 
 author:
