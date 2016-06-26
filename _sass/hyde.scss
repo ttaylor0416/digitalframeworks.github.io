@@ -1,30 +1,3 @@
----
-# Digital Frameworks mod of Hyde
----
-
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
-@import "bootstrap/grid";
-
-@import "bootstrap/buttons";
-@import "bootstrap/button-groups";
-@import "bootstrap/carousel";
-@import "bootstrap/forms";
-@import "bootstrap/input-groups";
-@import "bootstrap/jumbotron";
-@import "bootstrap/list-group";
-@import "bootstrap/media";
-@import "bootstrap/modals";
-@import "bootstrap/panels";
-@import "bootstrap/popovers";
-@import "bootstrap/print";
-@import "bootstrap/responsive-embed";
-@import "bootstrap/responsive-utilities";
-@import "bootstrap/tables";
-@import "bootstrap/thumbnails";
-@import "bootstrap/tooltip";
-@import "bootstrap/wells";
-
 /*
  *  __                  __
  * /\ \                /\ \
@@ -40,15 +13,17 @@
  * https://github.com/poole/hyde.
  */
 
+
 /*
  * Contents
  *
  * Global resets
  * Sidebar
- * theme-container
+ * Container
  * Reverse layout
  * Themes
  */
+
 
 /*
  * Global resets
@@ -57,18 +32,16 @@
  */
 
 html {
-  font-family: "Merriweather", Georgia, serif;
-  font-weight: 300;
-  line-height: 1.65;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 17px;
+    font-size: 20px;
   }
 }
 
@@ -82,11 +55,9 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1.5rem 0.7rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: #222;
-  font-size: 0.8rem;
-  font-family: "Fira Mono", Courier, monospace;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -94,49 +65,43 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 14rem;
+    width: 18rem;
     text-align: left;
   }
 }
 
 /* Sidebar links */
+.sidebar a {
+  color: #fff;
+}
+
 /* About section */
 .sidebar-about h1 {
+  color: #fff;
   margin-top: 0;
-  font-size: 1.3rem;
-  font-weight: normal;
-}
-.sidebar-about h1 a {
-  color: rgba(255, 255, 255, 1);
+  font-family: "Abril Fatface", serif;
+  font-size: 3.25rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-top: 2rem;
   margin-bottom: 1rem;
 }
-a.sidebar-nav-item {
-  display: inline-block;
-  line-height: 1.1;
-  margin-bottom: 0.8rem;
-  font-size: 1.1rem;
-  color: rgba(255, 255, 255, 0.7);
-  border-bottom: 1px dotted rgba(255, 255, 255, 0.7);
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  color: rgba(255, 255, 255, 0.85);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.85);
-  text-decoration: none;
+  text-decoration: underline;
 }
-a.sidebar-nav-item.active {
-  color: rgba(255, 255, 255, 1);
-  border-bottom: 1px solid rgba(255, 255, 255, 1);
+.sidebar-nav-item.active {
+  font-weight: bold;
 }
 
 /* Sticky sidebar
  *
- * Add the `sidebar-sticky` class to the sidebar's theme-container to affix it the
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
 
@@ -144,34 +109,34 @@ a.sidebar-nav-item.active {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    top: 2rem;
+    bottom: 1rem;
     left:   1rem;
   }
 }
 
 
-/* theme-container
+/* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
 
 .content {
-  padding-top:    2rem;
-  padding-bottom: 2rem;
+  padding-top:    4rem;
+  padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 42rem;
-    margin-left: 15rem;
+    max-width: 38rem;
+    margin-left: 20rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 16rem;
+    margin-left: 22rem;
     margin-right: 4rem;
   }
 }

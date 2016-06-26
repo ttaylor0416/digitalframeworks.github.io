@@ -14,19 +14,19 @@ description:      'A high level view of digital journalism practice, summer 2016
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
-
 author:
   name:           'David Eads'
   url:            https://twitter.com/eads
 
 paginate:         15
 
+exclude: [node_modules]
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/digitalframeworks/digitalframeworks.github.io
-
 navlinks:
 - url: https://nwudigitalframeworks.slack.com/messages/general/
   title: Slack
