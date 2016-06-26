@@ -14,6 +14,8 @@ Because of the scheduling mixup, the welcome message is coming after week one. M
 
 In all events, we'll get into the swing of things better in week 2.
 
+Don't forget to email me a link to some interesting example of data journalism and a few sentences about why you like it.
+
 Check out the [syllabus](/syllabus). The syllabus can and will change as the quarter goes on, but I'll strive to cover the topics you see there.
 
 You'll need to sign up for some services before week 2:
@@ -27,4 +29,4 @@ There's a few more services you'll need to sign up for throughout the course. Yo
 * [Datawrapper](https://www.datawrapper.de/login)
 * [PythonAnywhere](https://www.pythonanywhere.com/registration/register/beginner/)
 
-Ask questions in the comments below.
+Feel free to ask questions in the comments below or directly via Slack.

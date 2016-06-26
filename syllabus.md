@@ -7,7 +7,6 @@ title: Syllabus
 
 ---
 
-
 **Wednesdays, 6-8:50pm**, June 23<sup>rd</sup> - August 25<sup>th</sup>, 2016. **You must bring a laptop to class.**
 
 **Professor:** David Eads, NPR Visuals Team / **[email](mailto:davideads@gmail.com)** / **[twitter](https://twitter.com/eads)** / **[github](https://github.com/eads)**
@@ -57,23 +56,25 @@ Every week, you'll be tasked with:
 
 These projects are cumulative -- you'll pick a (very loosely election-related) topic after the first class and, if possible, stick with it until the end of the quarter. Because you'll be working on an open-ended, real-world data question, you may not end up where you expect by the end of the class. That's part of the fun and the challenge of digital design and data work. 
 
-## Final project
+## Final group projects
 
-Somewhere around week 6, you'll turn your data reporting projects into a longer, more substantial project. You will need to call sources and subject matter experts. You'll need to plan an online presentation -- how will you tell this data story? Who is it for? How will you analyze and visualize your data?
+In week 3, students will bring pitch ideas to class. We'll work together to form groups of 2-4 students to tackle the strongest pitch ideas.
 
-It could be a [sequential visual story](https://source.opennews.org/en-US/learning/evolution-nprs-picture-stories/) like [Demolished](http://apps.npr.org/lookatthis/posts/publichousing/) or a [Twitter bot](https://twitter.com/officer1070) like Officer 1070 or just about anything else as long as it involves data, the Internet, and news reporting.
+The project could be a [sequential visual story](https://source.opennews.org/en-US/learning/evolution-nprs-picture-stories/) like [Demolished](http://apps.npr.org/lookatthis/posts/publichousing/) or a [Twitter bot](https://twitter.com/officer1070) like Officer 1070 or just about anything else as long as it involves data, the Internet, and news reporting.
 
-On that date you will give a short presentation showing off your work to the class and explaining your process behind the storytelling.
+On the final class date, you will give a short presentation showing off your work to the class and explaining your process behind the storytelling.
 
 ## Grading
 
-### Class participation: 40% 
+### Class participation: 40%
 
-You are expected to be timely (scrum will start at 6:05pm sharp), contribute to discussions, and tackle hands-on work in class.
+You are expected to be timely, contribute to discussions, and tackle hands-on work in class.
+
+Guests require your full attention, which means no devices. Students who spend more than a few minutes on their phones or laptops while a guest is speaking will be given a participation grade of zero for that session.
 
 ### Homework: 40%
 
-You are expected to have your homework submitted the evening before class.
+Submit your homework by the evening of class.
 
 ### Final project and presentation: 20%
 
@@ -86,33 +87,42 @@ As discussed above, you'll be expected to complete a large project around 6 week
 This outline is tentative and could be changed! [Check the lesson page](http://digitalframeworks.ghost.io/tag/lessons/) for detailed upcoming lesson plans.
 
 * Week 1
-  * Lecture: questions for Internet journalism teams
+  * Lecture: Questions for Internet journalism teams
+  * Homework: First data journalism link submission
+* Week 2: Data
   * Hands on: Interviewing data
-* Week 2
-  * Lecture: What is the Internet? Thinking like a network. HTML, CSS, JavaScript oh my. 
-  * Hands on: Basic web production with Bootstrap. 
-* Week 3
-  * Lecture: Data models, tools for finding data, what does data mean?
-  * Hands on: Data visualization with tool (TBD)
-* Week 4
+  * Lecture: What is data?
+  * Hands on: Finding data
+  * Homework: What data question or topic do you want to make into a story? Find at least two datasets related to a topic.
+* Week 3: Web production basics, project pitches
+  * Hands-on: Make your own static blog with Github Pages.
+  * Group conversation/hands-on: Share pitches, form project teams.
+  * Homework: First blog post with an embedded chart.
+* Week 4: Data visualization
   * Lecture: Data visualization (guest tbd) -- how to tell the truth about data for yourself and others.
-  * Hands on: Data analysis with sqlite
-* Week 5
-  * Hands-on: Data cleaning and analysis with Python (no lecture -- this exercise takes 2+ hours)
-* Week 6
-  * Lecture: Online storytelling (guest tbd)
-  * Hands-on: Build a Twitter bot with Python
-* Week 7
-  * Lecture: Covering the 2016 election (guest tbd)
-  * Hands-on: Working on final projects
-* Week 8
-  * Lecture: Mapping. When to a make a map, what you need to get there. 
-  * Hands-on: Building maps in CartoDB.
-* Week 9
-  * Lecture: Data journalism history
-  * Hands-on: Working on final projects
-* Week 10
-  * Presentations! With guest reviewers.
+  * Homework: Critique a data visualization.
+* Week 5: Mapping
+  * Lecture: Maps and their discontents (guest: Alyson Hurt, if available).
+  * Hands-on: Making a map with CartoDB.
+* Week 6: Scraping and data cleaning
+  * Hands-on: Basic scraping.
+  * Hands-on: Data cleaning with Python.
+  * Homework: Scrape data (or clean existing data) and create a data visualization.
+* Week 7: Social media storytelling
+  * Lecture: How to tell stories on social media (guest: NPR Live team, if available).
+  * Hands-on: Team check-ins / group work.
+  * Homework: Draft of group project.
+* Week 8: What is the Internet?
+  * Lecture: What is an Internet?
+  * Hands-on: Human Internet game
+  * Homework: Get close to finishing your group project!
+* Week 9: Advanced data techniques
+  * Hands-on: spreadsheet-based modeling
+  * Hands-on: Relational databases
+  * Homework: Finish your group project!
+* Week 10: Wrapup
+  * Lecture: Data journalism history and ethics
+  * Project presentations and group discussion with guest editors
 
 ## Your responsibilities
 
