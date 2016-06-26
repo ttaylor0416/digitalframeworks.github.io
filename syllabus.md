@@ -49,20 +49,21 @@ Every class will be structured roughly the same way:
 
 ## Homework
 
-Every week, you'll be tasked with:
+Every week, you should send an email with a link to a data journalism project to discuss in class and a few sentences explaining why you think it's interesting.
+
+Every week, you'll be tasked with one or more of:
 
 * **Readings**: Articles you should read and reflect on and interactives you should spend some time with and critique with the user in mind. 
-* **Data reporting projects**: These will either be research assignments or short articles you will write and publish on the class site. 
-
-These projects are cumulative -- you'll pick a (very loosely election-related) topic after the first class and, if possible, stick with it until the end of the quarter. Because you'll be working on an open-ended, real-world data question, you may not end up where you expect by the end of the class. That's part of the fun and the challenge of digital design and data work. 
+* **Data reporting projects**: These will either be research assignments or short articles you will write and publish on the class site.
+* **Making progress on group projects**: How and when you work on your final group projects is up to you. But most weeks you should be making some progress.
 
 ## Final group projects
 
 In week 3, students will bring pitch ideas to class. We'll work together to form groups of 2-4 students to tackle the strongest pitch ideas.
 
-The project could be a [sequential visual story](https://source.opennews.org/en-US/learning/evolution-nprs-picture-stories/) like [Demolished](http://apps.npr.org/lookatthis/posts/publichousing/) or a [Twitter bot](https://twitter.com/officer1070) like Officer 1070 or just about anything else as long as it involves data, the Internet, and news reporting.
+The project could be a typical long-read, a [sequential visual story](https://source.opennews.org/en-US/learning/evolution-nprs-picture-stories/) like [Demolished](http://apps.npr.org/lookatthis/posts/publichousing/) or a [Twitter bot](https://twitter.com/officer1070) like Officer 1070 or just about anything else as long as it involves data, the Internet, and news reporting. Projects can and should publish on multiple platforms and contain multiple components such as a social video, long-read page, and standalone interactive.
 
-On the final class date, you will give a short presentation showing off your work to the class and explaining your process behind the storytelling.
+On the final class date, each group will give a short presentation showing off your work to the class and explaining your process behind the storytelling.
 
 ## Grading
 
