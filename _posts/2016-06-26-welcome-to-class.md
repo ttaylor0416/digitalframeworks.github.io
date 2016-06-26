@@ -1,8 +1,9 @@
 ---
 layout: post
+comments: true
 
 title: Welcome to Digital Frameworks Summer 2016
-description: Get ready for the weeks ahead by signing up for some services. 
+description: Get ready for the weeks ahead by signing up for some services.
 
 author: David Eads
 email: davideads@gmail.com
