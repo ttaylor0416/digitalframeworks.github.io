@@ -14,19 +14,22 @@ Because of the scheduling mixup, the welcome message is coming after week one. M
 
 **Important**: Class will be held on Wednesday nights, not Thursday nights as reported by Ellen. Again, apologies for the mix-up.
 
-Don't forget to email me a link to some interesting example of data journalism and a few sentences about why you like it.
+Make sure you check out the [syllabus](https://digitalframeworks.github.io/syllabus/). The syllabus can and will change as the quarter goes on, but we'll definitely be covering all the topics from the syllabus in roughly the order that's currently there.
 
-Check out the [syllabus](https://digitalframeworks.github.io/syllabus/). The syllabus can and will change as the quarter goes on, but .
+Don't forget to email me a link to some interesting example of data journalism and a few sentences about why you think it's interesting.
+
+My own submission for the week is John Oliver's [Debt Buyers](https://www.youtube.com/watch?v=hxUAntt1z2c) segment on Last Week Tonight. Oliver's pieces are always impeccably sourced and researched, even when the jokes are a little stupid. This one goes further by actually going through the process of setting up a debt-buying company and purchasing a debt portfolio.
 
 You'll need to sign up for some services before week 2:
 
-* [Slack](https://nwudigitalframeworks.slack.com/signup)
-* [Google](https://accounts.google.com/signup)
+* [Slack](https://nwudigitalframeworks.slack.com/signup) -- sign up with your u.northwestern.edu address.
+* [Google](https://accounts.google.com/signup) -- it's likely you already have a Google account, but it can't hurt to be explicit.
 
 There's a few more services you'll need to sign up for throughout the course. You don't _have_ to sign up for them for this week, but might as well, right?
 
 * [Github](https://github.com/join)
 * [Datawrapper](https://www.datawrapper.de/login)
 * [PythonAnywhere](https://www.pythonanywhere.com/registration/register/beginner/)
+* [CartoDB](https://cartodb.com/signup)
 
 Feel free to ask questions in the comments below or directly via Slack.
