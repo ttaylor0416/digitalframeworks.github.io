@@ -16,9 +16,9 @@ Because of the scheduling mixup, the welcome message is coming after week one. M
 
 Make sure you check out the [syllabus](https://digitalframeworks.github.io/syllabus/). The syllabus can and will change as the quarter goes on, but we'll definitely be covering all the topics from the syllabus in roughly the order that's currently there.
 
-Don't forget to email me a link to some interesting example of data journalism and a few sentences about why you think it's interesting.
+Your homework for Wednesday is to email me a link to some interesting example of data journalism and a few sentences about why you think it's interesting. Don't fear, the homework will get harder.
 
-My own submission for the week is John Oliver's [Debt Buyers](https://www.youtube.com/watch?v=hxUAntt1z2c) segment on Last Week Tonight. Oliver's pieces are always impeccably sourced and researched, even when the jokes are a little stupid. This one goes further by actually going through the process of setting up a debt-buying company and purchasing a debt portfolio.
+My own submission for the week is John Oliver's [Debt Buyers](https://www.youtube.com/watch?v=hxUAntt1z2c) segment on Last Week Tonight. Oliver's pieces are always impeccably sourced and researched, even when the jokes are a little stupid. This one goes further by actually going through the process of setting up a debt-buying company and purchasing a debt portfolio. It's a brilliant combination of old school investigative tricks, modern data research, and pure cable tv theater.
 
 You'll need to sign up for some services before week 2:
 
