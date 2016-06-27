@@ -104,24 +104,25 @@ This outline is tentative and could be changed! [Check the lesson page](http://d
   * Homework: Critique a data visualization.
 * Week 5: Mapping
   * Lecture: Maps and their discontents (guest: Alyson Hurt, if available).
-  * Hands-on: Making a map with CartoDB.
+  * Hands-on/homework: Making a map and doing spatial analysis with CartoDB.
+  * In-class discussions with each group about their project.
 * Week 6: Scraping and data cleaning
   * Hands-on: Basic scraping.
   * Hands-on: Data cleaning with Python.
   * Homework: Scrape data (or clean existing data) and create a data visualization.
 * Week 7: Social media storytelling
   * Lecture: How to tell stories on social media (guest: NPR Live team, if available).
-  * Hands-on: Team check-ins / group work.
+  * In-class discussions with each group about their project.
   * Homework: Draft of group project.
-* Week 8: What is the Internet?
-  * Lecture: What is an Internet?
-  * Hands-on: Human Internet game
+* Week 8: What is the internet?
+  * Lecture: What is the internet?
+  * Hands-on: Human internet game
   * Homework: Get close to finishing your group project!
 * Week 9: Advanced data techniques
-  * Hands-on: spreadsheet-based modeling
+  * Hands-on: Spreadsheet-based modeling
   * Hands-on: Relational databases
   * Homework: Finish your group project!
-* Week 10: Wrapup
+* Week 10: Presentations and wrapup
   * Lecture: Data journalism history and ethics
   * Project presentations and group discussion with guest editors
 
