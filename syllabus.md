@@ -94,7 +94,7 @@ This outline is tentative and could be changed! [Check the lesson page](http://d
   * Hands on: Interviewing data
   * Lecture: What is data?
   * Hands on: Finding data
-  * Homework: What data question or topic do you want to make into a story? Find at least two datasets related to a topic.
+  * Homework: Find an interesting dataset and "interview" it. Write a paragraph or two about what you find.
 * Week 3: Web production basics, project pitches
   * Hands-on: Make your own static blog with Github Pages.
   * Group conversation/hands-on: Share pitches, form project teams.
